@@ -1,5 +1,8 @@
+fastapi
+uvicorn
 pandas
-numpy
-ummalqura
 statsmodels
-matplotlib
+pydantic
+python-multipart
+hijri-converter
+numpy
